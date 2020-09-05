@@ -1,0 +1,10 @@
+{
+    "hompage": {
+      "language": "Language",
+      "welcome": "Hello!",
+      "description": "Content by English",
+    },
+    "login": {
+      "submitText": "Log In"
+    }
+}

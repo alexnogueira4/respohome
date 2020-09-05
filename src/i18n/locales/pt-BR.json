@@ -1,0 +1,17 @@
+{
+    "login": {
+      "emailLabel": "E-mail",
+      "passwordLabel": "Senha",
+      "submitLabel": "Entrar"
+    },
+    "main": {
+      "menu": {
+        "helpLabel": "Ajuda",
+        "homePageLabel": "Página Inicial",
+        "logOutLabel": "Sair"
+      }
+    },
+    "homePage": {
+      "title": ""
+    }
+  }

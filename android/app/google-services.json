@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "627837662753",
+    "firebase_url": "https://midyear-machine-237222.firebaseio.com",
+    "project_id": "midyear-machine-237222",
+    "storage_bucket": "midyear-machine-237222.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627837662753:android:2ae54cdb49cca8bda95560",
+        "android_client_info": {
+          "package_name": "com.respohome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "627837662753-46993abalgp52hdfr475eu51o4obe43n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIebbyXe1i0_d8ptzvzsdmoKtuxv7WP2E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "627837662753-46993abalgp52hdfr475eu51o4obe43n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
